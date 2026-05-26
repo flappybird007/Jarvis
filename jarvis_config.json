@@ -1,0 +1,11 @@
+{
+  "wake_word": "jarvis",
+  "weather_api": "",
+  "chatgpt_api": "",
+  "city": "Berlin",
+  "language": "de-DE",
+  "speech_rate": 150,
+  "volume": 0.9,
+  "timeout": 5,
+  "debug": false
+}
